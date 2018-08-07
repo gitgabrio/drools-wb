@@ -38,6 +38,7 @@
       <artifactId>drools-wb-ui</artifactId>
       <type>war</type>
       <scope>runtime</scope>
+      <version>7.8.0-SNAPSHOT</version>
     </dependency>
 
     <dependency>

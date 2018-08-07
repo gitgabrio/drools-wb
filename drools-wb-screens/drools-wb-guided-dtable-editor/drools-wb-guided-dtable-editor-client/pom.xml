@@ -19,7 +19,6 @@
   </properties>
 
   <dependencies>
-
     <!-- dependencies added because of new illegal transitive dependency check -->
     <dependency>
       <groupId>com.allen-sauer.gwt.dnd</groupId>
@@ -267,7 +266,7 @@
     <dependency>
       <groupId>org.jboss.errai</groupId>
       <artifactId>errai-validation</artifactId>
-      <scope>test</scope>
+      <scope>compile</scope>
     </dependency>
 
     <dependency>
